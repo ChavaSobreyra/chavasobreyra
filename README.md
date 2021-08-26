@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey bud 👋
 
-<!--
-**ChavaSobreyra/chavasobreyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🤓 I currently work at [Torticity](https://torticity.com). We are creating solutions to simplify the mass tort industry. <br/>
+🔴 I previously worked with an amazing team at [Bankrate](https://bankrate.com) and [Red Ventures](https://redventures.com)<br/>
+💰 I also develop and run a crypto trading bot called Bitshark<br/>
+<br/>
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chavasobreyra&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chavasobreyra&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
+
