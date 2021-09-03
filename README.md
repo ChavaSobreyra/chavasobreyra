@@ -2,8 +2,7 @@
 
 
 🤓 I currently work at [Torticity](https://torticity.com). We are creating solutions to simplify the mass tort industry. <br/>
-🔴 I previously worked with an amazing team at [Bankrate](https://bankrate.com) and [Red Ventures](https://redventures.com)<br/>
-💰 I also develop and run a crypto trading bot called Bitshark<br/>
+💰 I also develop and run a crypto alog-trading bot called Bitshark<br/>
 <br/>
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chavasobreyra&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
