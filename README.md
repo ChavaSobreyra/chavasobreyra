@@ -1,4 +1,4 @@
 ### Hey bud 🤙🏻
 
 
-🤓 I currently work at [Torticity](https://torticity.com). We are creating solutions to simplify the mass tort industry. <br/>
+🤓 Currently transforming litigation tech at [Torticity](https://torticity.com) . <br/>
