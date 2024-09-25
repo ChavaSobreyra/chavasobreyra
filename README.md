@@ -1,4 +1,4 @@
 ### Hey bud 🤙🏻
 
 
-🤓 Currently transforming litigation tech at [Torticity](https://torticity.com) . <br/>
+🤓 Currently transforming the litigation industry at [Torticity](https://torticity.com) . <br/>
